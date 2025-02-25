@@ -135,7 +135,6 @@ padding: 0 8px ;
 }
 
 .about-me__info--para {
-
     font-size: 20px;
     margin-bottom: 28px;
 }
@@ -152,6 +151,7 @@ padding: 0 8px ;
     display: flex;
     align-items: center;
 }
+
 .about-me__img {
     width: 100%;
 }
